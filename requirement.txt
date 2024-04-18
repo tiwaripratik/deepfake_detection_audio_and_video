@@ -1,0 +1,19 @@
+FOR VIDEO DEEPFAKE DETECTION
+pip install numpy
+!pip install mtcnn
+pip install opencv-python
+pip install tensorflow
+pip install torch
+pip install facenet-pytorch
+pip install grad-cam
+pip install matplotlib
+--------------------------------------------------------
+FOR AUDIO DEEPFAKE DETECTION
+
+
+install resampy
+pip install librosa 
+pip install tensorfloe
+pip install numpy
+pip install matplotlib
+
